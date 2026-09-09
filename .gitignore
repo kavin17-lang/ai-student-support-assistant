@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+data/student_memory.json
+data/support_tickets.json
+.venv/
+venv/
